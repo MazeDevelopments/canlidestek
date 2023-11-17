@@ -1,0 +1,17 @@
+module.exports = {
+Prefix: ".",
+destek: "yok",
+talep: "yok",
+kurulum: "yok",
+konu: "?",
+yetkilikategori: "yok",
+gecmis: "yok",
+kullanici: "yok",
+acilan: "0",
+reddedilen: "0",
+onaylanan: "0",
+kapatilan: "0",
+dm: "yok",
+kanal: "yok",
+sunucu: "?",
+}

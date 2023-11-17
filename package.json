@@ -1,0 +1,17 @@
+{
+  "name": "maze-canli-destek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "anadosya.js",
+  "scripts": {
+    "start": "node anadosya.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@akarui/aoi.db": "^1.0.0",
+    "aoi.js": "^6.5.6",
+    "aoi.parser": "^1.2.6"
+  }
+}
